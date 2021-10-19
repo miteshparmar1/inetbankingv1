@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="20.671" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="JOB_NAME" value="inetBankingV1_Maven"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV1_Maven/1/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/Users/Mitz/.jenkins"/>
+    <property name="PATH" value="/usr/bin:/bin:/usr/sbin:/sbin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="6092a58bb6f0cc58"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="16.0.1+9-24"/>
+    <property name="user.name" value="Mitz"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="inetBankingV1_Maven"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV1_Maven/1/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="TMPDIR" value="/var/folders/0h/x8yf440517s55sc0kb80n_jw0000gq/T/"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home/lib"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="XPC_FLAGS" value="0x0"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="BUILD_ID" value="1"/>
+    <property name="JAVA_MAIN_CLASS_93917" value="Main"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/Applications/apache-maven-3.8.3/conf"/>
+    <property name="java.class.version" value="60.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="GB"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="os.version" value="10.14"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV1_Maven/1/display/redirect"/>
+    <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+    <property name="path.separator" value=":"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV1_Maven/1/display/redirect?page=artifacts"/>
+    <property name="java.vm.version" value="16.0.1+9-24"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV1_Maven/display/redirect"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="LOGNAME" value="Mitz"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="HOME" value="/Users/Mitz"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/Mitz"/>
+    <property name="BUILD_TAG" value="jenkins-inetBankingV1_Maven-1"/>
+    <property name="JENKINS_SERVER_COOKIE" value="6092a58bb6f0cc58"/>
+    <property name="XPC_SERVICE_NAME" value="homebrew.mxcl.jenkins-lts"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="/Users/Mitz/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.8rF1bnlznX/Render"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/Applications/apache-maven-3.8.3"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Applications/apache-maven-3.8.3 /Users/Mitz/.jenkins/war/WEB-INF/lib/remoting-4.10.jar /Users/Mitz/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar /Users/Mitz/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar 56876"/>
+    <property name="java.class.path" value="/Users/Mitz/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.13.jar:/Applications/apache-maven-3.8.3/boot/plexus-classworlds-2.6.0.jar:/Applications/apache-maven-3.8.3/conf/logging"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="M2_HOME" value="/Applications/apache-maven-3.8.3"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="CI" value="true"/>
+    <property name="java.io.tmpdir" value="/var/folders/0h/x8yf440517s55sc0kb80n_jw0000gq/T/"/>
+    <property name="HUDSON_HOME" value="/Users/Mitz/.jenkins"/>
+    <property name="PATH+MAVEN" value="/Applications/apache-maven-3.8.3/bin"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/inetBankingV1_Maven/1/"/>
+    <property name="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.qlPWU0OT9E/Listeners"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="__CF_USER_TEXT_ENCODING" value="0x1F7:0:2"/>
+    <property name="user.dir" value="/Users/Mitz/eclipse-workspace/inetBankingV1"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/inetBankingV1_Maven/"/>
+    <property name="MAVEN_HOME" value="/Applications/apache-maven-3.8.3"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="1"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="maven3.interceptor" value="/Users/Mitz/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="/Users/Mitz/.jenkins/workspace/inetBankingV1_Maven@tmp"/>
+    <property name="WORKSPACE" value="/Users/Mitz/.jenkins/workspace/inetBankingV1_Maven"/>
+    <property name="maven3.interceptor.common" value="/Users/Mitz/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar"/>
+    <property name="java.specification.version" value="16"/>
+    <property name="USER" value="Mitz"/>
+  </properties>
+  <testcase name="loginTest" classname="com.inetbanking.testCases.TC_LoginTest_001" time="3.871"/>
+  <testcase name="addNewCustomer" classname="com.inetbanking.testCases.TC_AddCustomerTest_003" time="16.8">
+    <failure message="unexpected alert open: {Alert text : Customer could not be added !!}&#10;  (Session info: chrome=94.0.4606.81): Customer could not be added !!&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;Rams-iMac-4.local&apos;, ip: &apos;192.168.0.24&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14&apos;, java.version: &apos;16.0.1&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: /var/folders/0h/x8yf440517s...}, goog:chromeOptions: {debuggerAddress: localhost:56945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 4e63f3907eb75f0e4a20d34f97cbb6a2" type="org.openqa.selenium.UnhandledAlertException">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=94.0.4606.81): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Rams-iMac-4.local', ip: '192.168.0.24', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: /var/folders/0h/x8yf440517s...}, goog:chromeOptions: {debuggerAddress: localhost:56945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e63f3907eb75f0e4a20d34f97cbb6a2
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getPageSource(RemoteWebDriver.java:438)
+	at com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:51)
+</failure>
+    <system-out><![CDATA[ INFO [main] (TC_AddCustomerTest_003.java:20)- User name is provided
+ INFO [main] (TC_AddCustomerTest_003.java:22)- password is provided
+ INFO [main] (TC_AddCustomerTest_003.java:32)- providing customer details...
+ INFO [main] (TC_AddCustomerTest_003.java:50)- validation started...
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 17961
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 19, 2021 12:29:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>
